@@ -1,8 +1,8 @@
 # Grocery_Store_App-using-Python
-A 3 tier application with,
+A 3 tier application with:
 
-Front end: UI written in HTML/CSS/Javascript/Bootstrap,
+Front end: UI written in HTML/CSS/Javascript/Bootstrap
 
-Backend: Python and Flask,
+Backend: Python, Flask
 
-Database: mysql
+Database: MySQL
